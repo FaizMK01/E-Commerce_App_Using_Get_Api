@@ -1,6 +1,8 @@
 # api_rojects_realworld
 
 A new Flutter project.
+![E-Commerce Picture 1](https://github.com/FaizMK340/E-Commerce_App_Using_Get_Api/assets/153530794/335bd0c7-f6c2-4a8f-93ed-0dac67fe3075)
+![E-Commerce Picture 2](https://github.com/FaizMK340/E-Commerce_App_Using_Get_Api/assets/153530794/29d6e503-8058-4dd4-88f6-100d6b78caed)
 
 ## Getting Started
 
